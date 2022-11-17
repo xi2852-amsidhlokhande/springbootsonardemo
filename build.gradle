@@ -44,7 +44,7 @@ sonarqube{
 		property 'sonar.coverage.jacoco.xmlReportPaths', 'build/reports/jacoco/test/jacocoTestReport.xml'
 		property 'sonar.host.url', 'http://localhost:9000'
 		property 'sonar.projectKey', 'springbootsonardemo'
-		property 'sonar.login', 'sqp_2b1899c5a9ce50e22d6339daa54d81ebb57282f4'
+		property 'sonar.login', 'sqp_7d3b7657e58471718efa8a0db5dc52cabdeec7d2'
 	}
 }
 
